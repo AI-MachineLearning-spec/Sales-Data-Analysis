@@ -14,6 +14,18 @@ I have proceeded to create an interactive and elaborative DASHBOARD project in E
 -	Visualize products by Revenue.
 
 
+## Process
+
+Scanned for blank column headers
+Scanned for blank rows inside the data
+Checked if Date column is actually recognized as dates
+Checked if Revenue and Quantity are numbers
+Checked if Category/Region spelling is consistent
+Checked if Order ID is available
+Created pivot tables, pivot charts, bars and graphs according to questions asked under KPIs
+Merged all pivot tables, pivot charts, bars, graphs, created slicers, and timelines to make dynamic
+
+
 ## Dashboard
 
 https://github.com/AI-MachineLearning-spec/Sales-Data-Analysis/blob/main/Sales_Dashboard%20Screenshot.png
