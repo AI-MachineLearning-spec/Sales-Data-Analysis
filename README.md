@@ -15,6 +15,7 @@ I have proceeded to create an interactive and elaborative DASHBOARD project in E
 
 
 ##Interactive Dashboard
+
 https://github.com/AI-MachineLearning-spec/Sales-Data-Analysis/blob/main/Sales_Dashboard%20Screenshot.png
 
 
