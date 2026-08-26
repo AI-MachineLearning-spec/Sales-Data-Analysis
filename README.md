@@ -26,11 +26,11 @@ I have proceeded to create an interactive and elaborative DASHBOARD project in E
 - Merged all pivot tables, pivot charts, bars, graphs, created slicers, and timelines to make dynamic
 
 
-## Dashboard
-
-https://github.com/AI-MachineLearning-spec/Sales-Data-Analysis/blob/main/Sales_Dashboard%20Screenshot.png
-
-
 ## The Interactive Dashboard
 
 https://github.com/AI-MachineLearning-spec/Sales-Data-Analysis/blob/main/Computer%20Products%20Sales%20Data%20(Autosaved)%20(Autosaved).xlsx
+
+
+## Dashboard
+
+<img width="1881" height="908" alt="Sales_Dashboard Screenshot" src="https://github.com/user-attachments/assets/c16c1663-5bb6-4b81-be1e-3855f107e5e3" />
